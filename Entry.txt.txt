@@ -1,0 +1,87 @@
+<html>
+<head>
+    <title>MY_AIR SDC</title>
+</head>
+<p>
+<img src="sd logo.png" align="left"  width="100" height="100" alt="MY_AIR">
+
+<body background="bd.jpg" text="white" text style="font-size: xx-large;"">
+</p>  
+    <!-- Website title -->
+    <H1 style="text-align: center;">
+        MY_AIR <br>
+        SOFTWARE DEVELOPMENT COMPANY</H1>
+
+    <!-- this link opens the homepage -->
+    <a href="homepage.html" align="center"><img src="sd.jpg" align="center"></a>
+    <marquee direction=up >
+    <h2 style="color: lime;">
+        <strong>Click the image to open our homepage </strong>
+    </marquee>
+    <hr align="left" width="75%"> </h2>
+    <br>
+    <!-- this is a brief contact information about MY_AIR SDC -->
+    MY_AIR SDC is a web and app development company,
+    digitally transforming enterprises, institutions, 
+    agencies and start-ups inside out. 
+    Understanding your business needs, 
+    we devise agile solution in ways you’ve never imagined.
+    Defy the norm - let’s build something big together.
+    we teamed up to ensure that we deliver an intuitive platform
+    that speaks to a broader audience ensuring we offer quality services to all.
+  <br>
+ <!-- More details -->
+    There's a lot that we do before actually starting the project.
+    We do market research and analysis, understand the competitive 
+    landscape, understand and document clients’ design and branding
+    preferences, consult with all the key stakeholders and finally
+    come up with a high-level mapping. 
+    This brings alignment in terms of end-user persona and business 
+    needs.
+    <table align="center" >
+        <caption><h2 style="color: lime;">MY_AIR GALLERY</h2></caption>
+        <tr>
+            <td> 
+                <img src="web dev.jpg" height="200" width="350"/>    
+            </td>
+            <td> 
+                <img src="prog dev.jpg" height="200" width="350"/>    
+            </td>
+            <td> 
+                <img src="mob dev.jpg" height="200" width="350"/>    
+            </td>
+        </tr>
+    </table>
+    
+    <table align="center" >
+       
+        <tr>
+            <td> 
+                <img src="c dev.jpg" height="200" width="350"/>    
+            </td>
+            <td> 
+                <img src="python.jpg" height="200" width="350"/>    
+            </td>
+            <td> 
+                <img src="sql dev.jpg" height="200" width="350"/>    
+            </td>
+        </tr>
+    </table>
+    </p>
+s
+    <!-- Now this is our finish tags -->
+    <hr color="lime"  width="45%" >
+    <h1 style="color: lime;"><p style="text-align: center;">CONTACT US :-</h1>
+        <hr color="lime" width="45%">
+    </p>
+    <p style="text-align: center;"><img src="phone.png" align="center"  width="35" height="35" alt="PHONE">
+        <b style="color: lightblue;">+254-759-325-920 </b><br>
+    <br>
+    <p style="text-align: center;"><img src="whatsapp.png" align="center"  width="35" height="35" alt="PHONE">
+        <b style="color: lightblue;">+254-759-325-915 </b> <br>
+    <br> 
+    <p style="text-align: center;"><img src="gmail.png" align="center"  width="35" height="35" alt="PHONE">
+    <b style="color: lightblue;">info@my_airsdc.org </b><br><br>
+    Copyright © 2020 MY_AIR SDC, Inc.
+    </body>
+    </html>

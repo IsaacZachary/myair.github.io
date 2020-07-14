@@ -1,0 +1,44 @@
+.contact{
+    box-align:center;  
+    width:20px; 
+    height:20px; 
+}
+.whatsaap{
+    width: 50px;
+    height: 50px;
+    
+}
+footer{
+    color-interpolation-filters: linearRGB;
+    color: rgb(25, 69, 83);
+    display: flex;
+    flex-direction: column;
+    font-weight: 100px;
+    text-align: center;
+    line-height: 5rem;
+    text-decoration: wavy;
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 70px;
+}
+#contactus{
+    color: rgb(25, 69, 83);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+.bottomhr{
+    width: 40%;
+    font-weight: 100%;
+
+}
+.addresses{
+    color: rgb(86, 167, 167);
+    padding: 40px;
+    font-size: 25px;
+    font-family: monospace;
+}
+.copyright{
+    font-size: 20px;
+    font-weight: 100%;
+    font-family: tahoma;
+    letter-spacing: 0.1rem;
+}

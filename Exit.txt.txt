@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+    
+    <p>
+        <a href="entry.html"> <img src="sd logo.png" align="left"  width="100" height="100" alt="MY_AIR"></a>
+        <!-- we want to separate the logo from the links-->
+        <body background="yg.jpg" text="white" text style="font-size: xx-large;">
+        </p>  
+        <h1 style="text-align: center;"><b style="color: white;">MY_AIR <br>SOFTWARE DEVELOPMENT COMPANY</b> </h1>
+</head>
+<title>MYAIR.EXIT</title>
+
+<h3 style="text-align: center;"><b style="color: lime;"><u>ABOUT US</b></u></h3>
+<p>MY_AIR is a tech company dedicated to provide affordable tech solutions for businesses and everyday problems</p>
+MY_AIR SDC is a web and app development company,digitally transforming enterprises, institutions, agencies and start-ups inside out. 
+    Understanding your business needs, we devise agile solution in ways you’ve never imagined.
+    Defy the norm - let’s build something big together.we teamed up to ensure that we deliver an intuitive platform
+    that speaks to a broader audience ensuring we offer quality services to all.
+  <br>
+    There's a lot that we do before actually starting the project.
+    We do market research and analysis, understand the competitive 
+    landscape, understand and document clients’ design and branding
+    preferences, consult with all the key stakeholders and finally
+    come up with a high-level mapping. 
+    This brings alignment in terms of end-user persona and business 
+    needs.
+    <p>
+        <b style="color: lime;">
+            <table align="center" border = "1" width = "100" height = "50"  bordercolor = "lightblue" >
+                <caption>MY_AIR SDC SERVICES</caption>
+                 
+                <tr>
+                   <th>WEB DEVELOPMENT</th>
+                   <th>GAME DEVELOPMENT</th>
+                   <th>PROGRAMMING</th>
+                </tr>
+                <tr>
+                   <td rowspan = "2">HTML & CSS</td>
+                   <td>PYTHON</td><td>C </td>
+                </tr>
+                <tr>
+                   <td>JAVA</td>
+                   <td>C ++</td>
+                </tr>
+                <tr>
+                   <td colspan = "3">DBMS</td>
+                </tr>
+             </table>
+        
+        </b>
+        </p>
+<p>the company was founded by:
+<p><ol type="i">
+        <li><b style="color: lime;">Micah Gregory</b><br>
+        Micah is an expert in web development. He is well conversant with
+        the hypetext markup language and the cascading style sheets. He also
+        analyses JAVA and JAVASCRIPT sites. We've been working together for 5 years
+        now and he's proven to be an excellent web developer.
+        </li>
+        <li><b style="color: lime;">Yahya Ramadhan</b><br>
+        Yahya is an experienced programmer and is trusted in all the SQL programmings he has been working as a database manager
+        for 6 years and he relates well to all our database programs. Apart from DBMS he is also a qualified web developer.
+</li>
+        <li><b style="color: lime;">Allan Mukabana</b><br>
+        Allan is our group's programmer he's much conversant with all the existing operating systems from the anonymous ones 
+        to windows to unix to linux. He does all the programming and also works on game development most of the times.
+        </li>
+        <li><b style="color: lime;">Isaac Zachary</b><br>
+        Isaac is the analyst for the group, he covers all the programs written in python, ruby 
+        and all the C languages. He's been working on web, apps andgame development for quite a while and we can say 
+        that he's the best and no game development has ever failed if left on his hands 
+        </li>
+        <li><b style="color: lime;">Roy Kipchumba</b><br>
+        Roy is a senior developer with experience in the development field. He's a code shark who can combine
+        upto 10 technologies in a single project and make it incredebly fast and efficient.
+        </li>
+	    </ol></p>
+<p>For more information contact us : 
+    <p><img src="phone.png" align="center"  width="35" height="35" alt="PHONE">
+        <b style="color: lightblue;">+254-759-325-920 </b>
+    <br>
+    <p><img src="whatsapp.png" align="center"  width="35" height="35" alt="PHONE">
+        <b style="color: lightblue;">+254-759-325-915 </b> 
+    <p>
+    <p><img src="gmail.png" align="center"  width="35" height="35" alt="PHONE">
+    <b style="color: lightblue;">info@my_airsdc.org </b>
+<marquee behaviour=scroll  hspace="100" vspace="50"  bgcolor="black" >
+<h1 style=color:lime;>Thank you for visiting MY_AIR Software Development Company<br>
+     welcome back again!</h1>
+</marquee>
+<u style="color:lightblue;">
+    <strong>Click our logo to open entry page</strong>
+    </u>
+</p>
+
+Copyright © 2020 MY_AIR SDC, Inc.
+</body>
+</html>

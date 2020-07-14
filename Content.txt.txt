@@ -1,0 +1,155 @@
+
+<!DOCTYPE html>
+<html >
+<head >
+      <!-- This Company's Name -->
+      
+
+
+    <p>
+        <img src="sd logo.png" align="left"  width="100" height="100" alt="MY_AIR">
+        <!-- we want to separate the logo from the links-->
+       
+       
+        <a href="exit.html"  ><b style="text-align: right;"><u style="color: lightblue;"> ABOUT US</b></u></a>
+        
+        <br><br>
+    </p><h1 style="text-align: center;">
+    <b style="color: lime;">MY_AIR <br>
+    SOFTWARE DEVELOPMENT COMPANY (SDC)</b></h1>
+      </p>
+    <title>Document</title>
+</head>
+<body bgcolor="black" text="white" text style="font-size: xx-large;" TEXT style="font-family: monospace;">
+        <!-- This is our first paragraph -->
+    <p background="software.jpg">
+    MY_AIR SDC is a web and app development company,
+    digitally transforming enterprises, institutions, 
+    agencies and start-ups inside out. 
+    Understanding your business needs, 
+    we devise agile solution in ways you’ve never imagined.
+    Defy the norm - let’s build something big together.
+    we teamed up to ensure that we deliver an intuitive platform
+    that speaks to a broader audience ensuring we offer quality services to all.
+    There's a lot that we do before actually starting the project.
+    We do market research and analysis, understand the competitive 
+    landscape, understand and document clients’ design and branding
+    preferences, consult with all the key stakeholders and finally
+    come up with a high-level mapping. 
+    This brings alignment in terms of end-user persona and business 
+    needs.
+</p>
+<p> 
+    <img src="software.jpg " height="600" width="1200"> 
+
+</p>
+<!-- web development -->
+<p>
+    <b style="color: lime;"><u>Web Development</b></u><br>
+    From web applications, to
+    ecommerce website or SaaS platforms,
+    we do it all. Web design and development 
+    is our forte and we proudly say we are the best.
+    we include hypertext mark up languange and cascading
+    style sheets (CSS) to ensure we design the best and desirable sites
+    The web development process includes web design, web content development, 
+    client-side/server-side scripting and network security configuration, 
+    among other tasks.Web development is the coding or programming that 
+    enables website functionality, per the owner's requirements. 
+    It mainly deals with the non-design aspect of building websites, 
+    which includes coding and writing markup.
+    
+</p>
+<!-- programm development -->
+<p>
+    <b style="color: lime;"><u>Programming</b></u><br>
+    MY_AIR is a software development team of senior developers with experience in the in the development field. 
+    Our code sharks can combine up to ten technologies in a single project and make it incredibly fast and efficient. 
+    the services we offer at Multi-Programming Solutions amongst others and are delivered on a world-class standard, 
+    at a cost effective budget: E-commerce solutions for Shopify, Etsy, Woocommerce and other platforms, casino, action and 
+    casual games creation. We have the complex expertise in mobile and web development, programming, software survey, analysis 
+    and recommendation, personalized programming tools and application. Ready Multi-Programming Solutions solutions stand out 
+    from the crowd, compete on the market and bring profit to their ownersComputer programming is a way of giving computers 
+    instructions about what they should do next.
+</p>
+<!-- mobile app development -->
+<p>
+    <b style="color: lime;"><u>Mobile App Development</b></u><br>
+    
+    We build apps that people love. 
+    We make it easy to put your business at your customers’ 
+    fingertips with our intuitive and top-ranked mobile app 
+    solutions.We are among the leaders and have a global market
+    With more than a decade of working experience, we excel in client satisfaction
+    We use the latest technology and tools in delivering world-class mobile app development
+     and designing services across all platforms
+    A team of highly experienced professional developers is always ready to assist you 24x7
+    We have successfully provided our services to leading companies and global giants
+    
+</p>
+<!-- c language -->
+<p>
+    <b style="color: lime;"><u>C programming</b></u><br>
+    
+    C Language is an amazing language when it comes to simplicity of syntax with decent functionality. 
+    It is a perfect mix of both, which makes it the best contender to be taught to students who have just started learning coding, 
+    to introduce them into the programming world.
+    Our experienced programmers have majored on the C language as its the basic language and the foundations to oher programming languages
+    we enhance our user productivity and easy program manipulation for our end users. Our aim is end user friendliness and satisfactory 
+    at all costs. we also do programs in other C languages like the C# and C++ from the C language category.
+</p>
+<!-- python -->
+<p>
+    <b style="color: lime;"><u>Python Programming</b></u><br>
+   
+    Python has a lot of applications. It's used for developing web applications, data science, rapid application development, and so on.
+    Python allows you to write programs in fewer lines of code than most of the programming languages.
+    The popularity of Python is growing rapidly. Now it's one of the most popular programming languages.
+    Python is a powerful general-purpose programming language. It is used to develop web applications, data science, creating software prototypes and so on. Fortunately for beginners, Python has simple easy-to-use syntax. 
+    The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, 
+    and to support and facilitate the growth of a diverse and international community of Python programmers.
+    Python can be used to develop different applications like web applications, graphic user interface based applications, software development application, scientific and numeric applications, network programming, Games and 3D applications and other business applications.
+</p>
+
+<br>
+<!-- DBMS -->
+<p>
+    <b style="color: lime;"> DBMS</b><br>
+   
+    A database is an organized collection of structured information, or data, typically 
+    stored electronically in a computer system. A database is usually controlled by a 
+    database management system (DBMS). Together, the data and the DBMS, along with the
+     applications that are associated with them, are referred to as a database system,
+      often shortened to just database.
+    Data within the most common types of databases in operation today is typically modeled 
+    in rows and columns in a series of tables to make processing and data querying efficient. 
+    The data can then be easily accessed, managed, modified, updated, controlled, and organized. 
+    Most databases use structured query language (SQL) for writing and querying data.
+    
+</p>
+<br><br>
+<!-- This is a summary table of our services -->
+
+<!-- this is our summary -->
+<p style="text-align: center;" ><b style="color: lime;">Our Approach</b><br>
+A working application can only be built by highly skilled employees.
+These are the very people we have working on our team. The work of one team on all stages of the project life cycle has many advantages
+ for clients. This eliminates the need to discuss and detail the information that was agreed with a previous implementer, our team 
+ coordinates all the details in order to maximize the efficiency of the workflow. The change of developers is fraught for customers with 
+ the loss of the necessary information, a large amount of financial and time resources. Our company will save your project from having to 
+ look for a new contractor at every stage of development.
+</p>
+<p style="text-align: center;"><b style="color: lime;">Our Technologies</b><br>
+We blueprint, build, and maintain advanced game, web, and mobile
+apps for companies of all sizes. With the passage of time and the development of new technologies, 
+as well as a large demand for IT services, the Multi-Programming Solutions team has identified key areas in software development and 
+technologies that are used to create it. The following technologies are the most modern, popular, functional and useful in creating those 
+solutions which we offer to our customers. The technologies we use help get any web project up and running within the shortest timeline and 
+in the most cost efficient way. 
+<br>
+
+</p>  
+<br><br>
+<b style="color: lightskyblue;" >Copyright © 2020 MY_AIR SDC, Inc.</b> 
+</body>
+</html>

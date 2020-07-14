@@ -1,0 +1,168 @@
+#header{
+  display: flex;
+  flex-shrink: inherit;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #2a1d64;
+    font-family: Arial;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  
+ #topnav .title{
+    padding-left: 10px;
+    padding-top: 0;
+    padding-bottom: 25px;
+    padding-right: 75px;
+    transform: translateY(-16%);
+    text-align: left;
+    color: #ddd;
+    font-size: 3.5em;
+    font-family: tahoma;
+    letter-spacing: 0.2em;
+    display: flex;
+    flex-wrap: wrap;
+ 
+ }
+ #topnav .title .top{
+     opacity: 0;
+     display: inline-block;
+     animation: animate 1s linear forwards;
+ 
+ }
+ @keyframes animate{
+     0%{
+         opacity: 0;
+         transform: rotateY(90deg);
+         filter: blur(10px);
+     }
+     100%{
+         opacity: 1;
+         transform: rotateY(0deg);
+         filter: blur(0);
+     }
+ }
+ 
+a{
+    text-decoration: none;
+    color: #eee;
+}
+header{
+   width: 100%;
+   height: 16%;
+   margin-bottom: 8%;
+}
+.container{
+    max-width:120rem ;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   padding-left: 150px;
+   margin: 0 auto;
+   width: 50%;
+}
+.Nav{
+  background: rgb(65, 56, 196);
+  height: 23%;
+}
+.wrap{
+  margin: 0 20px 0 0;
+  font-size: 2px;
+  display: none;
+  line-height: 0px;
+  display: block;
+  cursor: pointer;
+  max-width:500px
+  float: right;
+}
+.wrap{
+  width:50% ;
+  margin: auto;
+  display: none;
+
+
+}
+.icon{
+  width: 40px;
+  height:5px;
+ cursor: pointer;
+  margin: 6px 0;
+  margin: 0 40px 0 0;
+  font-size: 26px;
+  display: none;
+  line-height: 70px;
+
+}
+#toogle{
+  display: none;
+
+}
+@media only screen and (max-width:500px){
+  .wrap {
+    display: block;
+    cursor: pointer;
+
+
+
+  }
+}
+nav{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   align-items: center;
+   text-transform: uppercase;
+   font-size: 20px;  
+   font-family: tahoma;
+   font-weight: 20%;
+   transform: translateY(15%);
+}
+.top{
+    color: teal;
+}
+nav ul{
+    display: flex; 
+}
+nav ul li{
+    list-style: none;
+
+
+}
+nav ul li a{
+    padding: 1rem 0;
+    margin: 0 3rem;
+    position: relative ;
+    letter-spacing: 1.5px;
+}
+nav ul li a:last-child{
+    margin-right: 0;
+}
+nav ul li a:before,
+nav ul li a:after{
+    content:'' ;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: teal;
+    left: 0;
+    transform: scaleX(0);
+    transition: all 2s;
+}
+nav ul li a::before{
+    top: 0;
+    transform-origin: left;
+}
+nav ul li a:after{
+    bottom: 0;
+    transform-origin: right;
+}
+nav ul li a:hover:before,
+nav ul li a:hover:after{
+      transform: scaleX(1);
+}
+@keyframes slideIn{
+
+}
+
+
